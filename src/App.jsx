@@ -1,11 +1,8 @@
-import React from "react";
+import React from 'react';
+import AccordionMenu from './AccordionMenu';
 
 function App() {
-  return (
-    <div>
-      <h1>hello</h1>
-    </div>
-  );
+  return <AccordionMenu />;
 }
 
 export default App;
